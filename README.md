@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an IT student at **Politeknik Negeri Bali**, f
 
 ## 💼 Current Activities
 - 📚 Active member of the **Computer Club**
-- 🚀 I work as a daily worker at my brother's company as IT support
+- 🚀 I work as a daily worker at my sister's company as IT support
 - 💡 Developing personal and collaborative projects to enhance skills
 
 ---
