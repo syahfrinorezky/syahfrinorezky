@@ -26,4 +26,4 @@ Welcome to my GitHub profile! I'm an IT student at **Politeknik Negeri Bali**, f
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahfrino&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahfrinorezky&show_icons=true&theme=radical)
