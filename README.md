@@ -1,6 +1,5 @@
 ## <div align="center">SYAHFRINO REZKY OKTAVIANT<div>
 
-#
 
 <div align="center">Indonesian tech student, aspiring to become an IT expert who is useful for the nation and state</div>
 
