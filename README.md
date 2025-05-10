@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 <span style="font-size:32px; font-weight:bold;">SYAHFRINO REZKY OKTAVIANT</span>
 </div>
 
