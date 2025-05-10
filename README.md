@@ -6,22 +6,22 @@
   </a>
 </p>
 
-<table style="border: none;">
-  <tr>
-    <td width="70%" style="border: none;">
-      <p align="justify">
-        I am <strong>Syahfrino Rezky Oktaviant</strong>, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.
-      </p>
-    </td>
-    <td width="30%" style="border: none;">
-      <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" style="width: 30%;">
+
+<p align="left">I am Syahfrino Rezky Oktaviant, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.</p>
 
 ###
 
-<p align="center">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
   <a href="https://www.instagram.com/rinorezky" target="_blank">
     <img src="https://img.shields.io/badge/rinorezky-C95792?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -40,6 +40,6 @@
   <a href="https://linkedin.com/in/rinorezky" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
