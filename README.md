@@ -6,9 +6,11 @@
   </a>
 </p>
 
-<img align="right" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" style="width: 200px;">
+<img align="right" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" style="width: 300px;">
 
-<p>I am Syahfrino Rezky Oktaviant, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.</p>
+<p align="justify">
+I am Syahfrino Rezky Oktaviant, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.
+</p>
 
 ###
 
