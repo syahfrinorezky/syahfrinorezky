@@ -6,10 +6,18 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 50px">
-  <p align="justify">I am <strong>Syahfrino Rezky Oktaviant</strong>, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.</p>
-  <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" style="width: 30%;">
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <p align="justify">
+        I am <strong>Syahfrino Rezky Oktaviant</strong>, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.
+      </p>
+    </td>
+    <td width="30%">
+      <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ###
 
