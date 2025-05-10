@@ -33,9 +33,3 @@ Im an Informatics Student with a passion for learning and growing. I am currentl
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </div>
-
-<br>
-<br>
-<br>
-
----
