@@ -1,4 +1,7 @@
-<div align="center"><b style="font-size: 10em">SYAHFRINO REZKY OKTAVIANT</b></div>
+<<div align="center">
+<span style="font-size:32px; font-weight:bold;">SYAHFRINO REZKY OKTAVIANT</span>
+</div>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">A tech-savvy student striving to become a proficient IT professional who can contribute positively to society.</div>
