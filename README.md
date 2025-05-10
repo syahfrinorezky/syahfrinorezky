@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# <div align="center">SYAHFRINO REZKY OKTAVIANT</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=SYAHFRINO+REZKY+OKTAVIANT)](https://git.io/typing-svg)
 
 <div align="center">A tech-savvy student striving to become a proficient IT professional who can contribute positively to society.</div>
 
