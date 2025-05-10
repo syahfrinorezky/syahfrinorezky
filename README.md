@@ -35,4 +35,8 @@ I am Syahfrino Rezky Oktaviant, an Informatics Student with a passion for learni
   </a>
 </div>
 
+<br>
+<br>
+<br>
+
 ---
