@@ -1,15 +1,14 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SYAHFRINO+REZKY+OKTAVIANT" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=3000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SYAHFRINO+REZKY+OKTAVIANT" alt="Typing SVG" />
   </a>
 </p>
 
 <img align="right" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="Programmers GIF" style="width: 200px;">
 
 <p align="justify">
-I am Syahfrino Rezky Oktaviant, an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.
+Im an Informatics Student with a passion for learning and growing. I am currently expanding my knowledge in software development, and I am excited to see where this journey takes me. I am eager to learn from others, share my own knowledge, and contribute positively to the tech community.
 </p>
 
 <br>
