@@ -6,7 +6,9 @@
   </a>
 </p>
 
-<div align="center">A tech-savvy student striving to become a proficient IT professional who can contribute positively to society.</div>
+<div align="justify">A tech-savvy student striving to become a proficient IT professional who can contribute positively to society.</div>
+
+<img src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062" alt="Programmers GIF">
 
 ###
 
