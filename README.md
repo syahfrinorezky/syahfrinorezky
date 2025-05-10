@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<table>
+<table border="0">
   <tr>
     <td width="70%">
       <p align="justify">
