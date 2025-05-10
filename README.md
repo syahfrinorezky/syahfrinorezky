@@ -1,6 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SYAHFRINO+REZKY+OKTAVIANT)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SYAHFRINO+REZKY+OKTAVIANT)](https://git.io/typing-svg)
+</p>
 
 <div align="center">A tech-savvy student striving to become a proficient IT professional who can contribute positively to society.</div>
 
